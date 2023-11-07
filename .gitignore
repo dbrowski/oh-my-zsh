@@ -1,5 +1,6 @@
 # custom files
-custom/
+# Commenting out as I do want to push my custom config to git
+# custom/
 
 # temp files directories
 cache/
